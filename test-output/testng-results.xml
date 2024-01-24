@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[test 7]]>
+    </line>
+    <line>
+      <![CDATA[test 5]]>
+    </line>
+    <line>
+      <![CDATA[test 3]]>
+    </line>
+    <line>
+      <![CDATA[test 8]]>
+    </line>
+    <line>
+      <![CDATA[test 1 Executed]]>
+    </line>
+    <line>
+      <![CDATA[test 6]]>
+    </line>
+    <line>
+      <![CDATA[test 10]]>
+    </line>
+    <line>
+      <![CDATA[test 4]]>
+    </line>
+    <line>
+      <![CDATA[Test 2 executed]]>
+    </line>
+    <line>
+      <![CDATA[test 9]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-23T15:15:10 IST" name="Suite" finished-at="2024-01-23T15:15:10 IST" duration-ms="291">
+    <groups>
+    </groups>
+    <test started-at="2024-01-23T15:15:10 IST" name="Test" finished-at="2024-01-23T15:15:10 IST" duration-ms="291">
+      <class name="Selenium_Mock.ParallelClass1">
+        <test-method signature="test3()[pri:0, instance:Selenium_Mock.ParallelClass1@48f2bd5b]" started-at="2024-01-23T15:15:10 IST" name="test3" finished-at="2024-01-23T15:15:10 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:Selenium_Mock.ParallelClass1@48f2bd5b]" started-at="2024-01-23T15:15:10 IST" name="test4" finished-at="2024-01-23T15:15:10 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- Selenium_Mock.ParallelClass1 -->
+      <class name="Selenium_Mock.ParallelClass5">
+        <test-method signature="test10()[pri:0, instance:Selenium_Mock.ParallelClass5@73a1e9a9]" started-at="2024-01-23T15:15:10 IST" name="test10" finished-at="2024-01-23T15:15:10 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+      </class> <!-- Selenium_Mock.ParallelClass5 -->
+      <class name="Selenium_Mock.ParallelClass4">
+        <test-method signature="test10()[pri:0, instance:Selenium_Mock.ParallelClass4@71d44a3]" started-at="2024-01-23T15:15:10 IST" name="test10" finished-at="2024-01-23T15:15:10 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test 10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method signature="test9()[pri:0, instance:Selenium_Mock.ParallelClass4@71d44a3]" started-at="2024-01-23T15:15:10 IST" name="test9" finished-at="2024-01-23T15:15:10 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+      </class> <!-- Selenium_Mock.ParallelClass4 -->
+      <class name="Selenium_Mock.ParallelClass3">
+        <test-method signature="test7()[pri:0, instance:Selenium_Mock.ParallelClass3@14cd1699]" started-at="2024-01-23T15:15:10 IST" name="test7" finished-at="2024-01-23T15:15:10 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:0, instance:Selenium_Mock.ParallelClass3@14cd1699]" started-at="2024-01-23T15:15:10 IST" name="test8" finished-at="2024-01-23T15:15:10 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+      </class> <!-- Selenium_Mock.ParallelClass3 -->
+      <class name="Selenium_Mock.ParallelClass2">
+        <test-method signature="test5()[pri:0, instance:Selenium_Mock.ParallelClass2@77888435]" started-at="2024-01-23T15:15:10 IST" name="test5" finished-at="2024-01-23T15:15:10 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:0, instance:Selenium_Mock.ParallelClass2@77888435]" started-at="2024-01-23T15:15:10 IST" name="test6" finished-at="2024-01-23T15:15:10 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- Selenium_Mock.ParallelClass2 -->
+      <class name="Selenium_Mock.ParallelClass">
+        <test-method signature="test1()[pri:0, instance:Selenium_Mock.ParallelClass@76505305]" started-at="2024-01-23T15:15:10 IST" name="test1" finished-at="2024-01-23T15:15:10 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test 1 Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:Selenium_Mock.ParallelClass@76505305]" started-at="2024-01-23T15:15:10 IST" name="test2" finished-at="2024-01-23T15:15:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 2 executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Selenium_Mock.ParallelClass -->
+      <class name="Selenium_Mock.ParallelClass6">
+        <test-method signature="test11()[pri:0, instance:Selenium_Mock.ParallelClass6@7b98f307]" started-at="2024-01-23T15:15:10 IST" name="test11" finished-at="2024-01-23T15:15:10 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+      </class> <!-- Selenium_Mock.ParallelClass6 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
