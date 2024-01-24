@@ -6,6 +6,6 @@ public class mavenTest {
 	public static void main(String[] args) throws InterruptedException 
 	{
 		
-	System.out.println("maven test");
+	System.out.println("m");
 	}
 }
